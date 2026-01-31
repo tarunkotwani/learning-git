@@ -18,3 +18,8 @@ I work closely with developers and want to understand:
 - Making commits
 - Creating branches
 - Opening pull requests
+
+## Notes from learning
+- A branch is a safe place to make changes
+- Commits are like saved checkpoints
+- GitHub keeps a full history of changes
